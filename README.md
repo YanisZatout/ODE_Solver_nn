@@ -5,4 +5,4 @@ Every comment is made in French but a translation can be made if needed.
 https://www.overleaf.com/read/kfdjbnjjpfkn
 Here is the paper I wrote explaining the technique used.
 
-References and inspirations are at the end of the notebooks.
+References and inspirations are at the end of the notebook.
